@@ -1,7 +1,13 @@
 // Wrap all code that interacts with the DOM in a call to jQuery to ensure that
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
-var currentTime = 10;
+
+var currentDay = dayjs();
+console.log(currentDay);
+$('#currentDay').text(currentDay.format('dddd MMMM D, YYYY'));
+
+var currentTime = dayjs().hour();
+console.log(currentTime);
 
 var timeBlocks = $('.time-block');
 console.log(timeBlocks);
