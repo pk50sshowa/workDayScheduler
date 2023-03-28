@@ -7,7 +7,7 @@ An application that gives users the opportunity to enter events into individual 
 ## Location
 
 The site is live at the following URL:
-[https://pk50sshowa.github.io/workDayScheduler/index.html](https://pk50sshowa.github.io/pworkDayScheduler/index.html)
+[https://pk50sshowa.github.io/workDayScheduler/index.html](https://pk50sshowa.github.io/workDayScheduler/index.html)
 
 ## Screenshots
 
